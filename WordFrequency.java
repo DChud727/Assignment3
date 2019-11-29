@@ -1,6 +1,4 @@
 /******************************************************************************
- *  Dmitriy Chudinov | EMPLID: 23284472
- *
  *  Reads in a text file that adds to a data structure. Using said structure
  *  counts the appearance of each unique word.
  *  %  input.txt
